@@ -1167,7 +1167,7 @@ pre {
 .cid-qtoqdlPmYC {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qtoqdlPmYC .testimonials-container {
   margin: 0 auto;
@@ -1175,9 +1175,6 @@ pre {
 .cid-qtoqdlPmYC .testimonials-container .testimonials-item {
   justify-content: center;
   margin-top: 3rem;
-}
-.cid-qtoqdlPmYC .testimonials-container .testimonials-item .user {
-  background: #efefef;
 }
 .cid-qtoqdlPmYC .testimonials-container .testimonials-item .user.row {
   margin: 0;
@@ -1250,6 +1247,33 @@ pre {
 }
 .cid-qtfr81yrYF .team-item .item-caption {
   background: #efefef;
+}
+.cid-qtxbBpguY0 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qtxbBpguY0 .title {
+  margin-bottom: 2rem;
+}
+.cid-qtxbBpguY0 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qtxbBpguY0 a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qtxbBpguY0 a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qtxbBpguY0 .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qtxbBpguY0 .input-group-btn {
+  display: block;
+  text-align: center;
 }
 .cid-qtfuQHZLSk .navbar {
   background: #ffffff;
